@@ -1,0 +1,10 @@
+@mixin font__size_34 {
+  font-size: 34px;
+  line-height: normal;
+}
+
+@mixin button__inner {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
